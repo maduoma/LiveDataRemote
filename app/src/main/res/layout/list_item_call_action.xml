@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/call_action"
+    android:layout_width="match_parent"
+    android:textColor="#222"
+    android:clickable="true"
+    android:paddingLeft="50dp"
+    android:foreground="?attr/selectableItemBackground"
+    android:textSize="16dp"
+    android:paddingTop="@dimen/fab_margin"
+    android:paddingBottom="@dimen/fab_margin"
+    android:layout_height="wrap_content" />
